@@ -1,0 +1,27 @@
+zofia_daszkiewicz5@cloudshell:~ (nth-anchor-401620)$ gcloud services
+ERROR: (gcloud.services) Command name argument expected.
+
+Available groups for gcloud services:
+
+      api-keys
+      Manage API keys.
+      
+      operations
+      Manage Operation for various services.
+      
+      peered-dns-domains
+      Peered DNS domains for various private service connections.
+      
+      vpc-peerings
+      VPC Peerings to various services.
+
+Available commands for gcloud services:
+
+      disable
+      Disable a service for consumption for a project.
+      
+      enable
+      Enables a service for consumption for a project.
+      
+      list
+      List services for a project.
